@@ -1,0 +1,18 @@
+Animals:
+  Cat: Small pet
+  Dog: Loyal pet
+
+Fruits:
+  Mango
+  Peach
+  Grapes
+
+Operating Systems:
+  Windows
+  Linux
+  macOS
+
+Car Brands:
+  BMW
+  Honda
+  Toyota
