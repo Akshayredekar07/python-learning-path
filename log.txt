@@ -1,0 +1,23 @@
+
+
+WARNING:root:warning msg
+ERROR:root:error msg
+CRITICAL:root:critical msg
+WARNING:root:warning msg
+ERROR:root:error msg
+CRITICAL:root:critical msg
+WARNING:root:warning msg
+ERROR:root:error msg
+CRITICAL:root:critical msg
+WARNING:root:warning msg
+ERROR:root:error msg
+CRITICAL:root:critical msg
+WARNING:root:warning msg
+ERROR:root:error msg
+CRITICAL:root:critical msg
+WARNING:root:warning msg
+ERROR:root:error msg
+CRITICAL:root:critical msg
+WARNING:root:warning msg
+ERROR:root:error msg
+CRITICAL:root:critical msg
