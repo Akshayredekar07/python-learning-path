@@ -1,0 +1,18 @@
+01-04-2025 04:07: PM:INFO:New request come-
+01-04-2025 04:07: PM:INFO:Request processing completed
+01-04-2025 04:07: PM:INFO:New request come-
+01-04-2025 04:07: PM:ERROR:division by zero
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_12588\100984602.py", line 12, in <module>
+    print("Result: ", x/y)
+ZeroDivisionError: division by zero
+01-04-2025 04:07: PM:INFO:Request processing completed
+01-04-2025 04:08: PM:INFO:New request come-
+01-04-2025 04:08: PM:ERROR:invalid literal for int() with base 10: '4.7'
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_12588\100984602.py", line 10, in <module>
+    x = int(input("Enter first number: "))
+ValueError: invalid literal for int() with base 10: '4.7'
+01-04-2025 04:08: PM:INFO:Request processing completed
+01-04-2025 04:08: PM:INFO:New request come-
+01-04-2025 04:08: PM:INFO:Request processing completed

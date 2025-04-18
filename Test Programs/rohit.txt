@@ -1,6 +1,0 @@
-					Student Name: rohit
-
-Python: 100
-Java: 100
-Oracle: 100
-Linux: 100

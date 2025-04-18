@@ -1,0 +1,6 @@
+					Student Name: Akshay
+
+Python: 100
+Java: 99
+Oracle: 100
+Linux: 99
