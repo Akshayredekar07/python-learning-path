@@ -239,10 +239,10 @@ hex(0o12345)   # Output: '0x14e5'
 
 By default, Python uses **decimal** numbers (Base 10), which are the standard numbers we use every day. These numbers can include digits from `0` to `9`.
 
-    ```python
+  ```python
     decimal_value = 123  # Decimal (Base 10)
     print(decimal_value)  # Output: 123
-    ```
+  ```
 
 - **No prefix is needed** for decimal numbers. Simply write the number.
 
@@ -320,14 +320,6 @@ When working with very large or very small numbers, Python provides the ability 
 | Hexadecimal | `0X` or `0x` | `0x1A` | Base 16 | Hexadecimal system (0-9, a-f) |
 | Exponential | `e` or `E` | `1.2e3` | Power of 10 | Scientific notation (large or small values) |
 
-
-### **Note**
-- **`0B` or `0b`**: Binary (Base 2).
-- **`0O` or `0o`**: Octal (Base 8).
-- **`0X` or `0x`**: Hexadecimal (Base 16).
-- **`e` or `E`**: Exponential (scientific notation).
-
-These prefixes help Python understand how to interpret the number and convert it internally into the correct base for calculations.
 
 ---
 ## **Complex Data Type**
@@ -745,9 +737,6 @@ The `str()` function provides a string representation of the given object. It wo
 | **Set**        | Used to represent an unordered collection of unique objects | Mutable      | `>>> s={1,2,3,4,5,6}` <br> `>>> type(s)` <br> `<class 'set'>`                                   |
 | **Frozenset**  | Used to represent an unordered collection of unique objects | Immutable    | `>>> s={11,2,3,'Durga',100,'Ramu'}` <br> `>>> fs=frozenset(s)` <br> `>>> type(fs)` <br> `<class 'frozenset'>` |
 | **Dict**       | Used to represent a group of key-value pairs           | Mutable           | `>>> d = {101:'durga', 102:'ramu', 103:'hari'}` <br> `>>> type(d)` <br> `<class 'dict'>`       |
-
----
-Below is the **"Escape Characters"** section formatted properly with consistent structure, clear headings, and correct Python syntax presentation. I've fixed minor issues (e.g., spacing, quotation consistency) and ensured the examples are easy to read.
 
 ---
 
