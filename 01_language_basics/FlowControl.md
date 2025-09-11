@@ -809,7 +809,7 @@ while n > 0:
 - D) Infinite  
 
 **Answer**: B) 4  
-**Explanation**: `n` goes 5→4, 4→3, 3→2, 2→-1 (prints 4, 3, 2, -1), then stops. 4 iterations.  
+**Explanation**: `n` goes 5→4, 4→3, 3→2, 2→-1 (prints 4, 3, -1), then stops. 4 iterations.  
 **Difficulty**: Mid-loop condition jump.
 
 ---
